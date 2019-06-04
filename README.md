@@ -7,3 +7,4 @@
 
 Spring Boot中使用Swagger2构建强大的RESTful API文档，貌似对代码结构不太友好需要使用注解
 
+Spring Boot中使用JdbcTemplate访问数据库 有点问题测试类没法注入service
